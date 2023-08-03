@@ -1,1 +1,1 @@
-![](/images/sa-logo.png)
+![](/images/header.png)
